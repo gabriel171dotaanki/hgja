@@ -1,0 +1,8 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://images-na.ssl-images-amazon.com/images/I/41Ix1vMUK7L.png" pltv-name="FILMES PEDIDOS POR CLIEnTes" pltv-description="Rambo 2 - a missão" pltv-cover="https://images-na.ssl-images-amazon.com/images/I/41Ix1vMUK7L.png" pltv-author="iptvleão" pltv-site="XXXXXX" pltv-email="XXXXXX"
+
+
+################## filmes ########################
+
+#EXTINF:-1 tvg-id="" tvg-name="Rambo II - A Missão" tvg-logo="http://graniptv.com:8080/images/l6zUaYqaQ5TFokesv3BPzBvSN0_small.jpg" group-title="Guerra",Rambo II - A Missão
+http://graniptv.com:8080/movie/dineiodinei/odinei123456/23848.mp4
